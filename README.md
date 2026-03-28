@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:0074D9,100:7FDBFF&height=220&section=header&text=DSA%20Lab%2001&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Structures%20•%20Algorithm%20Analysis%20•%20Lab%20Exercises&descAlignY=60&descSize=18" width="100%"/>
+<!-- HERO BANNER - UPDATED GRADIENT COLORS (Deep Blue → Crimson → Gold) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb4d&height=220&section=header&text=DSA%20Lab%201&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Structures%20•%20Algorithm%20Analysis%20•%20Foundational%20Logic&descAlignY=60&descSize=18" width="100%"/>
 
 <br/>
 
-[![C++](https://img.shields.io/badge/Built%20with-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Scripting-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Status](https://img.shields.io/badge/Status-Completed-22c55e?style=for-the-badge)]()
-[![Academic](https://img.shields.io/badge/Academic-Project-ffb703?style=for-the-badge)]()
+<!-- BADGES -->
+[![Python](https://img.shields.io/badge/Built%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![C++](https://img.shields.io/badge/Built%20with-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)]()
+[![Status](https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge)]()
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-8b5cf6?style=for-the-badge)]()
 
 <br/>
 
@@ -19,8 +21,7 @@
 
 ## 🌐 Overview
 
-🔗 **Reference Repository:**
-[https://github.com/abdullacaad/DSA-LAB1](https://github.com/abdullacaad/DSA-LAB1)
+🔗 **Reference Repository:** [https://github.com/abdullacaad/DSA-LAB1](https://github.com/abdullacaad/DSA-LAB1)
 
 The **DSA Lab 1** repository contains the initial implementations and experimental analysis for the Data Structures and Algorithms course. This lab focuses on understanding **memory management, array manipulations, and time complexity** through practical coding exercises.
 
@@ -30,100 +31,14 @@ The **DSA Lab 1** repository contains the initial implementations and experiment
 
 ## ✨ Key Learning Objectives
 
-* 📊 **Algorithm Complexity** — Measuring Big O notation in practice.
-* 🏗 **Data Organization** — Efficient handling of linear data structures.
-* 🔍 **Search & Sort** — Implementation of fundamental searching algorithms.
-* 🛠 **Memory Allocation** — Understanding static vs. dynamic memory in C++/Python.
-* ⚡ **Optimization** — Writing clean, performant code for large datasets.
+| # | Objective | Description |
+|---|-----------|-------------|
+| 📊 | **Algorithm Complexity** | Measuring Big O notation in practice |
+| 🏗 | **Data Organization** | Efficient handling of linear data structures |
+| 🔍 | **Search & Sort** | Implementation of fundamental searching algorithms |
+| 🛠 | **Memory Allocation** | Understanding static vs. dynamic memory in C++/Python |
+| ⚡ | **Optimization** | Writing clean, performant code for large datasets |
 
 ---
 
 ## 🏗 Logical Architecture
-
-    Problem Statement
-            │
-            ▼
-    Algorithm Design (Pseudo-code)
-            │
-            ▼
-    Implementation (C++ / Python)
-            │
-  ┌──────────┼──────────┐
-  ▼          ▼          ▼
-Input      Logic      Output
-Handling   Processing  Testing
-
-
-> 🧠 The repository follows a structured approach: Problem → Solution → Analysis.
-
----
-
-## 🛠 Tech Stack
-
-| Category         | Technologies             |
-| --------------- | ----------------------- |
-| 🧠 **Languages** | C++ / Python            |
-| 💻 **Tools** | VS Code / GCC Compiler  |
-| 📈 **Analysis** | Time & Space Complexity |
-| 🎨 **Style** | Clean & Commented Code  |
-
----
-
-## ⚙️ Execution Flow
-
-```text
-1. Clone the repository to your local machine
-2. Navigate to the specific lab task directory
-3. Compile the source code (e.g., g++ task1.cpp)
-4. Run the executable to see results
-5. Review console output for logic verification
-6. Compare experimental results with theoretical Big O
-🚀 Getting Started
-🔧 Prerequisites
-C++ Compiler (GCC/Clang) or Python 3.x
-
-Git installed on your system
-
-📦 Installation
-Bash
-git clone [https://github.com/abdullacaad/DSA-LAB1](https://github.com/abdullacaad/DSA-LAB1)
-cd DSA-LAB1
-▶️ Run a Task (Example)
-Bash
-# For C++ files
-g++ task1.cpp -o task1
-./task1
-📸 Lab Insights (Coming Soon)
-📉 Complexity Graphs
-
-🖥 Console Output Previews
-
-📝 Documentation of Logic
-
-💡 Visualizing data transitions helps in understanding how algorithms behave under different loads.
-
-🌟 Future Lab Topics
-🔗 Linked Lists & Dynamic Structures
-
-🌲 Tree Traversals & Graphs
-
-🧪 Advanced Sorting Algorithms
-
-🧩 Dynamic Programming Challenges
-
-👨‍💻 Credits
-Developer: abdullacaad
-
-Institution: Lab Course Series 2024-2026
-
-⭐ Support
-If these lab implementations helped you understand DSA better:
-
-⭐ Star the repository
-
-🍴 Fork it for your own practice
-
-💬 Open an issue if you find a bug!
-
-🚀 Mastering Logic • Coding Efficiency
-"Algorithms are the heart of efficient software."
